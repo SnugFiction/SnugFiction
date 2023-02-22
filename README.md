@@ -7,7 +7,7 @@ I'm SnugFiction, an IT student and programmer from India, currently, I'm learnin
 :blue_heart:  HTML<br>
 :yellow_heart: CSS<br>
 :purple_heart: Adobe Photoshop<br>
-:sparkling_heart: Adobe Illustrator
+:sparkling_heart: Javascript
 
 #### My Project:
 1) Push the Box : [Play](https://simmer.io/@FuriousZyan/push-the-box)
